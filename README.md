@@ -2,7 +2,7 @@
 
 Install a handwriting recognition language on a Supernote that can't get online.
 
-Supernote downloads handwriting recognition languages on the device over Wi-Fi. If the device has no network (no Wi-Fi, a locked-down network, or the Wi-Fi taken out on purpose), there's no official way to add one, and after a firmware update it keeps asking you to "update" the languages you already had.
+Supernote downloads handwriting recognition languages on the device over Wi-Fi. If the device has no network (no Wi-Fi, a locked-down network, or the Wi-Fi taken out on purpose), there's no public/official way to install it. I see others contact Supernote support, however investigated what API supernote reaches during an update.
 
 This repo shows how to do it from a PC instead:
 
