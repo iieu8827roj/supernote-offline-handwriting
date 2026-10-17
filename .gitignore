@@ -1,0 +1,7 @@
+# Language packs are Supernote/MyScript files - never commit them
+*.zip
+*.res
+supernote-*/
+dictionary/
+dictionary-backup/
+__pycache__/
