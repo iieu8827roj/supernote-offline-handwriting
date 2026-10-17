@@ -19,7 +19,7 @@ This repo shows how to do it from a PC instead:
 |---|---|---|---|
 | Manta (A5 X2) | Chauvet 3.30.45 (October 2026) | English (UK), `en_GB` | Works |
 
-The Nomad (A6 X2) runs the same firmware and should behave the same, but hasn't been tested. Other languages use the same mechanism, but only `en_GB` has been tried on a device. If you try another, please open an issue with the result.
+The Nomad (A6 X2) runs the same firmware and should behave the same, but hasn't been tested. Other languages use the same mechanism, but only `en_GB` has been tried on a device. If you try another, please proceed at own risk.
 
 ## What you need
 
